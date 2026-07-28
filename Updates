@@ -1,0 +1,10 @@
+Version 1.0.0:
+
++ Added a way for account sessions to renew up to 14 days at every 24 hours but on the 13th day it'll then inform the user they will have to manually renew.
++ Added Support for fabric, forge, and neoforge mod loaders...
++ Added discovery to be able to download modpacks from both curseforge / Modrith labeled correctly.
++ Added a My Skins section that'll fetch your current skins for your accounts your logged into, as well as allow you to make new ones with a built in skin painter that is still a WIP.
+
+# Things to come:
+= Mod loader support for quilt as well as old version support for fabric.
+= Possibly a new layout and extending the max ram usage to go based on the users ram.
