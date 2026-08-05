@@ -1,0 +1,9 @@
+Update 1.0.7-hotifx:
+
+* Fixed modloader not working for newer versions of minecraft entirely. You will need to goto launcher settings and repair all instances.
+* Also fixed the content manager
++ Added support for shader packs and for the discover / discovery to properly install them if they are provided within the packs etc.
+
+Upcoming updates:
+
+= 1.0.8 + will be a complete rewrite using a newer system. note that this will take time todo But if 1.0.7-hotfix has bugs they will be fixed and patched and pushed out until 1.0.8 is ready.
