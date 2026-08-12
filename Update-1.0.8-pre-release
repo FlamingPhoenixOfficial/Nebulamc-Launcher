@@ -1,0 +1,12 @@
+version 1.0.8 pre-release:
+
+* rewrote the discord presence which may or may not work... still tinkering with it.
+* rewrote the news system and the way it fetches
+* rewrote the instances and how it should now properly run everything through the proper libraries, metadata, mavens etc.
+* rewrote the discover/discovery so that is a WIP since it may have a few bugs still.
+* Made sure the Launcher settings actually displayed properly and allowed you to move the instances folder that would move everything inside it to the new instance. But this kind of system is very early access...
+* still working on the skins so it only fetches and caches your skin and thats it.
+* Capes have been reworked but still very early access.
+= Servers tab has not been touched yet as im planning todo some major rework with how it was back in the 1.0.7.
+
+ALL OLDER VERSIONS WILL BE REMOVED.
