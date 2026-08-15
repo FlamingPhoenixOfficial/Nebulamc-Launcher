@@ -1,0 +1,15 @@
+version 1.1.0:
+
+* Fixed the launcher update checker and is now os based so it knows which one to download from the releases accordingly.
+* Sorted out the instance stuff so when in the mod discovery and download a mod it'll check for dependencies and download them accordingly, it'll also display the progress in a ui so you know whats going on and if it fails it'll display.
++ i've also added a way so that it detects the stuff you have installed for that instance so it'll display already installed etc.
++ i've also taken the action to organize things more for the launcher trying to make it clean and organized as possible.
+= Launcher source is still private But the launcher will be kept clean from advertisements etc as we dno't want it to flood the peoples view of the launcher.
+
+possible changes:
+
+= an option in the launcher settings to switch from galaxy view to just grid layout view for those that don't like the galaxy view.
+= themes system and an example theme for users to apply their own theme to the launcher if they want.
+= a plugin system for those that want to add a feeature to the launcher <- this will be heavily restricted as there are a lot of things we don't want you to accidently break.
+
+note these possible changes may come in later versions but we shall see.
